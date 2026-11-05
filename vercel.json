@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/pengumpulan-tugas",
-      "destination": "https://nama-proyek-tugas.vercel.app/pengumpulan-tugas"
+      "destination": "https://pengumpulan-tugas-beige.vercel.app/"
     },
     {
       "source": "/pengumpulan-tugas/:path*",
-      "destination": "https://nama-proyek-tugas.vercel.app/pengumpulan-tugas/:path*"
+      "destination": "https://pengumpulan-tugas-beige.vercel.app/pengumpulan-tugas/:path*"
     }
   ]
 }
