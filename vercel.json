@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/pengumpulan-tugas",
+      "destination": "https://nama-proyek-tugas.vercel.app/pengumpulan-tugas"
+    },
+    {
+      "source": "/pengumpulan-tugas/:path*",
+      "destination": "https://nama-proyek-tugas.vercel.app/pengumpulan-tugas/:path*"
+    }
+  ]
+}
