@@ -7,6 +7,14 @@
     {
       "source": "/pengumpulan-tugas/:path*",
       "destination": "https://pengumpulan-tugas-beige.vercel.app/pengumpulan-tugas/:path*"
+    },
+    {
+      "source": "/dashboard-tugas",
+      "destination": "https://dashboard-tugas-pearl.vercel.app/dashboard-tugas/"
+    },
+    {
+      "source": "/dashboard-tugas/:path*",
+      "destination": "https://dashboard-tugas-pearl.vercel.app/dashboard-tugas/:path*"
     }
   ]
 }
